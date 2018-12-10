@@ -1,0 +1,166 @@
+
+elephant_big.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glaza
+  rotate: true
+  xy: 841, 815
+  size: 207, 84
+  orig: 209, 86
+  offset: 1, 1
+  index: -1
+glaza_duet2
+  rotate: true
+  xy: 927, 815
+  size: 207, 41
+  orig: 209, 43
+  offset: 1, 1
+  index: -1
+glaza_grustit
+  rotate: true
+  xy: 398, 439
+  size: 207, 83
+  orig: 209, 85
+  offset: 1, 1
+  index: -1
+glaza_radost
+  rotate: false
+  xy: 572, 660
+  size: 220, 42
+  orig: 222, 44
+  offset: 1, 1
+  index: -1
+golovs
+  rotate: false
+  xy: 2, 648
+  size: 568, 374
+  orig: 570, 376
+  offset: 1, 1
+  index: -1
+hvost
+  rotate: false
+  xy: 483, 548
+  size: 75, 98
+  orig: 77, 100
+  offset: 1, 1
+  index: -1
+hvost_duet
+  rotate: false
+  xy: 841, 740
+  size: 126, 73
+  orig: 128, 75
+  offset: 1, 1
+  index: -1
+hvost_grustit
+  rotate: false
+  xy: 483, 448
+  size: 75, 98
+  orig: 77, 100
+  offset: 1, 1
+  index: -1
+l_noga
+  rotate: false
+  xy: 398, 346
+  size: 69, 91
+  orig: 71, 93
+  offset: 1, 1
+  index: -1
+l_ruka
+  rotate: true
+  xy: 170, 2
+  size: 101, 58
+  orig: 103, 60
+  offset: 1, 1
+  index: -1
+l_uho
+  rotate: false
+  xy: 2, 304
+  size: 308, 342
+  orig: 310, 344
+  offset: 1, 1
+  index: -1
+r_uho
+  rotate: false
+  xy: 2, 304
+  size: 308, 342
+  orig: 310, 344
+  offset: 1, 1
+  index: -1
+r_noga
+  rotate: false
+  xy: 230, 17
+  size: 69, 91
+  orig: 71, 93
+  offset: 1, 1
+  index: -1
+r_ruka
+  rotate: true
+  xy: 970, 803
+  size: 95, 47
+  orig: 97, 49
+  offset: 1, 1
+  index: -1
+rot
+  rotate: true
+  xy: 970, 900
+  size: 122, 51
+  orig: 124, 53
+  offset: 1, 1
+  index: -1
+rot_duet1
+  rotate: false
+  xy: 841, 681
+  size: 92, 57
+  orig: 94, 59
+  offset: 1, 1
+  index: -1
+rot_duet2
+  rotate: false
+  xy: 207, 110
+  size: 84, 61
+  orig: 86, 63
+  offset: 1, 1
+  index: -1
+rot_grustit
+  rotate: false
+  xy: 312, 323
+  size: 67, 17
+  orig: 69, 19
+  offset: 1, 1
+  index: -1
+rot_radost
+  rotate: true
+  xy: 207, 173
+  size: 129, 81
+  orig: 131, 83
+  offset: 1, 1
+  index: -1
+sax
+  rotate: false
+  xy: 572, 704
+  size: 267, 318
+  orig: 269, 320
+  offset: 1, 1
+  index: -1
+ten
+  rotate: true
+  xy: 312, 342
+  size: 304, 84
+  orig: 306, 86
+  offset: 1, 1
+  index: -1
+ten_sax
+  rotate: false
+  xy: 2, 19
+  size: 166, 84
+  orig: 168, 86
+  offset: 1, 1
+  index: -1
+tors
+  rotate: false
+  xy: 2, 105
+  size: 203, 197
+  orig: 205, 199
+  offset: 1, 1
+  index: -1

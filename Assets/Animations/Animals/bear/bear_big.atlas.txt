@@ -1,0 +1,145 @@
+
+bear_big.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Path
+  rotate: false
+  xy: 508, 768
+  size: 221, 246
+  orig: 223, 248
+  offset: 1, 1
+  index: -1
+gitara
+  rotate: false
+  xy: 2, 347
+  size: 355, 263
+  orig: 357, 265
+  offset: 1, 1
+  index: -1
+glaza
+  rotate: true
+  xy: 359, 394
+  size: 216, 99
+  orig: 218, 101
+  offset: 1, 1
+  index: -1
+glaza_grustit
+  rotate: false
+  xy: 731, 950
+  size: 218, 64
+  orig: 220, 66
+  offset: 1, 1
+  index: -1
+glaza_igraet
+  rotate: false
+  xy: 508, 698
+  size: 216, 68
+  orig: 218, 70
+  offset: 1, 1
+  index: -1
+glaza_radost
+  rotate: false
+  xy: 2, 217
+  size: 220, 42
+  orig: 222, 44
+  offset: 1, 1
+  index: -1
+golova
+  rotate: false
+  xy: 2, 612
+  size: 504, 402
+  orig: 506, 404
+  offset: 1, 1
+  index: -1
+hvost
+  rotate: false
+  xy: 951, 951
+  size: 62, 63
+  orig: 64, 65
+  offset: 1, 1
+  index: -1
+kist
+  rotate: false
+  xy: 224, 218
+  size: 36, 41
+  orig: 38, 43
+  offset: 1, 1
+  index: -1
+l_noga
+  rotate: false
+  xy: 308, 261
+  size: 50, 84
+  orig: 52, 86
+  offset: 1, 1
+  index: -1
+l_ruka
+  rotate: false
+  xy: 630, 631
+  size: 101, 65
+  orig: 103, 67
+  offset: 1, 1
+  index: -1
+l_uho
+  rotate: true
+  xy: 113, 111
+  size: 104, 106
+  orig: 106, 108
+  offset: 1, 1
+  index: -1
+r_noga
+  rotate: false
+  xy: 460, 536
+  size: 44, 74
+  orig: 46, 76
+  offset: 1, 1
+  index: -1
+r_ruka
+  rotate: false
+  xy: 858, 858
+  size: 80, 90
+  orig: 82, 92
+  offset: 1, 1
+  index: -1
+r_uho
+  rotate: false
+  xy: 2, 2
+  size: 105, 106
+  orig: 107, 108
+  offset: 1, 1
+  index: -1
+roe_igraet
+  rotate: true
+  xy: 731, 782
+  size: 66, 107
+  orig: 68, 109
+  offset: 1, 1
+  index: -1
+rot
+  rotate: false
+  xy: 731, 850
+  size: 125, 98
+  orig: 127, 100
+  offset: 1, 1
+  index: -1
+rot radost
+  rotate: false
+  xy: 2, 110
+  size: 109, 105
+  orig: 111, 107
+  offset: 1, 1
+  index: -1
+rot_grustit
+  rotate: true
+  xy: 508, 638
+  size: 58, 120
+  orig: 60, 122
+  offset: 1, 1
+  index: -1
+ten
+  rotate: false
+  xy: 2, 261
+  size: 304, 84
+  orig: 306, 86
+  offset: 1, 1
+  index: -1

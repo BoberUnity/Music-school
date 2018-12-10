@@ -1,0 +1,215 @@
+
+pig_big.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glaza
+  rotate: false
+  xy: 2, 65
+  size: 216, 99
+  orig: 218, 101
+  offset: 1, 1
+  index: -1
+glaza_grustit
+  rotate: false
+  xy: 2, 19
+  size: 217, 44
+  orig: 219, 46
+  offset: 1, 1
+  index: -1
+glaza_igraet
+  rotate: false
+  xy: 787, 840
+  size: 218, 53
+  orig: 220, 55
+  offset: 1, 1
+  index: -1
+glaza_radost
+  rotate: false
+  xy: 787, 799
+  size: 220, 39
+  orig: 222, 41
+  offset: 1, 1
+  index: -1
+golova
+  rotate: false
+  xy: 2, 609
+  size: 504, 402
+  orig: 506, 404
+  offset: 1, 1
+  index: -1
+ksilofan
+  rotate: false
+  xy: 2, 415
+  size: 483, 192
+  orig: 485, 194
+  offset: 1, 1
+  index: -1
+l_kist
+  rotate: false
+  xy: 600, 515
+  size: 28, 28
+  orig: 30, 30
+  offset: 1, 1
+  index: -1
+l_noga
+  rotate: false
+  xy: 437, 329
+  size: 50, 84
+  orig: 52, 86
+  offset: 1, 1
+  index: -1
+l_palka_fragment1
+  rotate: true
+  xy: 600, 545
+  size: 29, 95
+  orig: 31, 97
+  offset: 1, 1
+  index: -1
+l_palka_fragment2
+  rotate: false
+  xy: 717, 759
+  size: 25, 36
+  orig: 27, 38
+  offset: 1, 1
+  index: -1
+l_palka_fragment3
+  rotate: false
+  xy: 404, 268
+  size: 24, 24
+  orig: 26, 26
+  offset: 1, 1
+  index: -1
+l_palochka
+  rotate: true
+  xy: 223, 294
+  size: 37, 205
+  orig: 39, 207
+  offset: 1, 1
+  index: -1
+l_ruka
+  rotate: false
+  xy: 487, 433
+  size: 98, 45
+  orig: 100, 47
+  offset: 1, 1
+  index: -1
+l_uho
+  rotate: false
+  xy: 508, 583
+  size: 112, 102
+  orig: 114, 104
+  offset: 1, 1
+  index: -1
+nos
+  rotate: true
+  xy: 622, 576
+  size: 109, 94
+  orig: 111, 96
+  offset: 1, 1
+  index: -1
+r_kist
+  rotate: false
+  xy: 744, 767
+  size: 28, 28
+  orig: 30, 30
+  offset: 1, 1
+  index: -1
+r_noga
+  rotate: false
+  xy: 536, 347
+  size: 50, 84
+  orig: 52, 86
+  offset: 1, 1
+  index: -1
+r_palka_fragment1
+  rotate: true
+  xy: 223, 172
+  size: 59, 112
+  orig: 61, 114
+  offset: 1, 1
+  index: -1
+r_palka_fragment2
+  rotate: false
+  xy: 337, 197
+  size: 27, 34
+  orig: 29, 36
+  offset: 1, 1
+  index: -1
+r_palka_fragment3
+  rotate: false
+  xy: 717, 733
+  size: 24, 24
+  orig: 26, 26
+  offset: 1, 1
+  index: -1
+r_palochka
+  rotate: true
+  xy: 508, 687
+  size: 37, 205
+  orig: 39, 207
+  offset: 1, 1
+  index: -1
+r_ruka
+  rotate: true
+  xy: 489, 333
+  size: 98, 45
+  orig: 100, 47
+  offset: 1, 1
+  index: -1
+r_uho
+  rotate: false
+  xy: 487, 480
+  size: 111, 101
+  orig: 113, 103
+  offset: 1, 1
+  index: -1
+rot
+  rotate: false
+  xy: 508, 797
+  size: 277, 96
+  orig: 279, 98
+  offset: 1, 1
+  index: -1
+rot_grustit
+  rotate: false
+  xy: 2, 2
+  size: 77, 15
+  orig: 79, 17
+  offset: 1, 1
+  index: -1
+rot_igraet
+  rotate: false
+  xy: 223, 233
+  size: 179, 59
+  orig: 181, 61
+  offset: 1, 1
+  index: -1
+rot_radost
+  rotate: false
+  xy: 223, 333
+  size: 212, 80
+  orig: 214, 82
+  offset: 1, 1
+  index: -1
+ten
+  rotate: false
+  xy: 508, 726
+  size: 207, 69
+  orig: 209, 71
+  offset: 1, 1
+  index: -1
+ten_ksilofon
+  rotate: false
+  xy: 508, 895
+  size: 507, 116
+  orig: 509, 118
+  offset: 1, 1
+  index: -1
+tors
+  rotate: false
+  xy: 2, 166
+  size: 219, 247
+  orig: 221, 249
+  offset: 1, 1
+  index: -1

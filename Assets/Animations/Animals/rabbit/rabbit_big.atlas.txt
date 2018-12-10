@@ -1,0 +1,145 @@
+
+rabbit_big.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glaza
+  rotate: false
+  xy: 223, 349
+  size: 216, 99
+  orig: 218, 101
+  offset: 1, 1
+  index: -1
+glaza_grustit
+  rotate: false
+  xy: 787, 919
+  size: 225, 92
+  orig: 227, 94
+  offset: 1, 1
+  index: -1
+glaza_igraet
+  rotate: true
+  xy: 170, 150
+  size: 208, 32
+  orig: 210, 34
+  offset: 1, 1
+  index: -1
+glaza_radost
+  rotate: false
+  xy: 787, 878
+  size: 219, 39
+  orig: 221, 41
+  offset: 1, 1
+  index: -1
+golova
+  rotate: false
+  xy: 2, 609
+  size: 504, 402
+  orig: 506, 404
+  offset: 1, 1
+  index: -1
+hvost
+  rotate: false
+  xy: 88, 49
+  size: 41, 47
+  orig: 43, 49
+  offset: 1, 1
+  index: -1
+l_noga
+  rotate: true
+  xy: 2, 2
+  size: 50, 84
+  orig: 52, 86
+  offset: 1, 1
+  index: -1
+l_ruka
+  rotate: false
+  xy: 508, 615
+  size: 102, 63
+  orig: 104, 65
+  offset: 1, 1
+  index: -1
+l_uho
+  rotate: false
+  xy: 695, 664
+  size: 64, 207
+  orig: 66, 209
+  offset: 1, 1
+  index: -1
+r_noga
+  rotate: false
+  xy: 447, 523
+  size: 50, 84
+  orig: 52, 86
+  offset: 1, 1
+  index: -1
+r_ruka
+  rotate: true
+  xy: 354, 250
+  size: 97, 77
+  orig: 99, 79
+  offset: 1, 1
+  index: -1
+r_uho
+  rotate: false
+  xy: 761, 665
+  size: 63, 206
+  orig: 65, 208
+  offset: 1, 1
+  index: -1
+rot
+  rotate: false
+  xy: 508, 873
+  size: 277, 138
+  orig: 279, 140
+  offset: 1, 1
+  index: -1
+rot_grustit
+  rotate: false
+  xy: 826, 747
+  size: 98, 129
+  orig: 100, 131
+  offset: 1, 1
+  index: -1
+rot_igraet
+  rotate: false
+  xy: 204, 203
+  size: 148, 144
+  orig: 150, 146
+  offset: 1, 1
+  index: -1
+rot_radost
+  rotate: false
+  xy: 223, 450
+  size: 222, 157
+  orig: 224, 159
+  offset: 1, 1
+  index: -1
+skripka
+  rotate: false
+  xy: 508, 680
+  size: 185, 191
+  orig: 187, 193
+  offset: 1, 1
+  index: -1
+smichek
+  rotate: true
+  xy: 88, 98
+  size: 260, 80
+  orig: 262, 82
+  offset: 1, 1
+  index: -1
+ten
+  rotate: true
+  xy: 2, 54
+  size: 304, 84
+  orig: 306, 86
+  offset: 1, 1
+  index: -1
+tors
+  rotate: false
+  xy: 2, 360
+  size: 219, 247
+  orig: 221, 249
+  offset: 1, 1
+  index: -1
